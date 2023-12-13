@@ -1,6 +1,6 @@
 FInal Project made by Rakhmanberdiev Tamerlan COM - 20
 
-Projects name - Space weather information from the Space Weather Database Of Notifications, Knowledge, Information (DONKI) of NASA API
+Projects name - Space weather information from the Space Weather Database Of Notifications, Knowledge, Information (DONKI) of NASA API.  
 
 
 
